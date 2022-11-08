@@ -1,0 +1,23 @@
+{
+  "update_id": 432041022,
+  "message": {
+    "message_id": 569,
+    "from": {
+      "id": 270438582,
+      "is_bot": false,
+      "first_name": "Timur",
+      "last_name": "Zakirov",
+      "username": "zkrov",
+      "language_code": "ru"
+    },
+    "chat": {
+      "id": 270438582,
+      "first_name": "Timur",
+      "last_name": "Zakirov",
+      "username": "zkrov",
+      "type": "private"
+    },
+    "date": 1667930698,
+    "text": "1"
+  }
+}
